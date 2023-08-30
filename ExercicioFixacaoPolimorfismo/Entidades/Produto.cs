@@ -23,10 +23,5 @@ namespace ExercicioFixacaoPolimorfismo.Entidades {
         {
             return $"{Nome} $ {Preco.ToString("F2", CultureInfo.InvariantCulture)}";
         }
-
-        public string TesteRetorno() 
-        {
-            return $"{Nome} $ {Preco.ToString("F2", CultureInfo.InvariantCulture)}";
-        }
     }
 }
