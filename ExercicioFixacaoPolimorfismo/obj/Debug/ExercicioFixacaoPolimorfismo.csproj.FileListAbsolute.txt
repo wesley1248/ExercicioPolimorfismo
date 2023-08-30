@@ -1,0 +1,7 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\ExercicioFixacaoPolimorfismo\ExercicioFixacaoPolimorfismo\bin\Debug\ExercicioFixacaoPolimorfismo.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\ExercicioFixacaoPolimorfismo\ExercicioFixacaoPolimorfismo\bin\Debug\ExercicioFixacaoPolimorfismo.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\ExercicioFixacaoPolimorfismo\ExercicioFixacaoPolimorfismo\bin\Debug\ExercicioFixacaoPolimorfismo.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\ExercicioFixacaoPolimorfismo\ExercicioFixacaoPolimorfismo\obj\Debug\ExercicioFixacaoPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\ExercicioFixacaoPolimorfismo\ExercicioFixacaoPolimorfismo\obj\Debug\ExercicioFixacaoPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\ExercicioFixacaoPolimorfismo\ExercicioFixacaoPolimorfismo\obj\Debug\ExercicioFixacaoPolimorfismo.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\ExercicioFixacaoPolimorfismo\ExercicioFixacaoPolimorfismo\obj\Debug\ExercicioFixacaoPolimorfismo.pdb
